@@ -1,0 +1,8 @@
+{
+  "short_name": "React Dynamic List Update",
+  "name": "Create React App Dybnamic List Update App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
